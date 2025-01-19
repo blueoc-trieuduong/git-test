@@ -1,3 +1,6 @@
 dev-3
 dev3.0
-dev3a
+dev3afeat-3.0
+feat-3.1
+feat-3.a
+feat-3b
