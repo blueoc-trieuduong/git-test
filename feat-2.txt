@@ -1,3 +1,7 @@
 dev-2
 dev-2.0
-dev-2.a
+dev-2.afeat-2
+feat-2.0
+feat-2.1
+faet-2.a
+feat-2.b
